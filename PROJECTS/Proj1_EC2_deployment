@@ -1,0 +1,11 @@
+3 tasks or requirements:
+
+1. I have steps for installing Milvus Database (UI + Backend) on EC2, however, only the UI doesn't seem to be working from the browser. I need someone to revisit the configs and address the gaps.
+
+2.
+i. Also, I need end-2-end automation (need to automatically execute #1) of deploying Milvus on EC2 machine using Terraform
+ii. Ansible playbooks (redeployment of code, incase).
+
+3. After deployment, I need the EC2's Public IP to be programmatically mapped to the DNS (Cloudflare is on my mind, alternatives are also welcome)
+
+FYI, the list is prioritised and it needs to be a complete solution with minimal supervision.

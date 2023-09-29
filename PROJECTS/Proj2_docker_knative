@@ -1,0 +1,10 @@
+Opsly is currently looking for a DevOps engineer to help with creating a self-hosted version of our hosted SaaS www.opslycloud.com. We're currently running
+
+1 Frontend application with Elm
+1 Backend application with Go
+Kafka
+Knative
+Vault
+PostgreDB
+
+All in GCP in Kubernetes helm charts. We need to create 1 docker image so customers can install and run the app locally or in the Cloud instead of using our SaaS.
